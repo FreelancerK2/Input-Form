@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/CreditCard.html"
+status = 200
